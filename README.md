@@ -1,6 +1,12 @@
 # roadrush-60fps-and-full-save
 dummy for Description
 
-<div style="border: 4px solid #2ea44f; display: inline-block; border-radius: 10px; overflow: hidden;">
-  <img src="downloadhere.png" alt="下载指引" width="600">
-</div>
+请前往右侧的 **[Releases](../../releases)** 页面下载最新版本的安装包或资源文件。
+
+<img src="downloadhere.png" 
+     alt="下载指引" 
+     style="border: 3px solid #0366d6; 
+            border-radius: 8px; 
+            padding: 8px; 
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+            max-width: 100%;">
