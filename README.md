@@ -1,6 +1,4 @@
 # roadrush-60fps-and-full-save
 dummy for Description
 
-请前往右侧的 **[Releases](../../releases)** 页面下载最新版本的安装包或资源文件。
-
-![下载指引](downloadhere.png)
+<img src="downloadhere.png" alt="下载指引" style="border: 3px solid #ff6b6b; border-radius: 8px; padding: 4px; background: #fff;">
